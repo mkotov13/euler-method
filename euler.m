@@ -2,14 +2,10 @@ clear; %This clears all variables from memory.
 
 clf;  %This clears all figures (graphs) from memory.
 
-
-
 % set the initial condition
 
 y(1) = 10;
 t(1) = 0;
-
-
 
 % define the step, delta(t)
 
